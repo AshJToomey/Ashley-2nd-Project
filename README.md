@@ -1,4 +1,4 @@
-Accessible Web App with Voice & Keyboard Navigation
+**Accessible Web App with Voice & Keyboard Navigation**
 
 This project is an accessibility-focused, multi-page web application built using HTML, CSS, and JavaScript. It allows users to navigate through pages using keyboard arrows, voice commands, or the custom voice trigger "Hey Ash".
 
