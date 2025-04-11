@@ -1,7 +1,3 @@
-Here’s a clean and professional README.md file for your Accessible Multi-Page Web App with Voice Navigation:
-
-⸻
-
 Accessible Web App with Voice & Keyboard Navigation
 
 This project is an accessibility-focused, multi-page web application built using HTML, CSS, and JavaScript. It allows users to navigate through pages using keyboard arrows, voice commands, or the custom voice trigger "Hey Ash".
@@ -51,7 +47,3 @@ Future Improvements
 License
 
 This project is open-source under the MIT License.
-
-⸻
-
-Let me know if you’d like a voice command UI overlay or enhancements for non-WebKit browsers!
