@@ -1,49 +1,40 @@
-**Accessible Web App with Voice & Keyboard Navigation**
+# 🌐 Accessible Web App with Voice & Keyboard Navigation
 
-This project is an accessibility-focused, multi-page web application built using HTML, CSS, and JavaScript. It allows users to navigate through pages using keyboard arrows, voice commands, or the custom voice trigger "Hey Ash".
+An accessibility-first, multi-page web application designed for **inclusive user experiences**. Built with HTML, CSS, and JavaScript, the app enables users to navigate via **keyboard controls**, **voice commands**, or by saying a custom wake phrase: `"Hey Ash"`.
 
-Features
-	•	Keyboard Navigation: Use ArrowRight and ArrowLeft keys to navigate between pages.
-	•	Voice Control:
-	•	Say "Hey Ash" to activate the assistant.
-	•	Use "Go to page X" (e.g., "Go to page 2") to switch to a specific page.
-	•	Contact Form: A simple form to collect user name, email, and message.
-	•	ARIA Accessibility: Uses role and aria-labelledby attributes for screen reader support.
-	•	Dynamic Alerts: Announces page transitions and interactions.
+---
 
-Pages
-	1.	Page 1 – Welcome screen
-	2.	Page 2 – Informational section
-	3.	Page 3 – More content
-	4.	Contact Us – Includes a contact form
+## ✨ Features
 
-Technologies Used
-	•	HTML5
-	•	CSS3
-	•	JavaScript
-	•	Speech Recognition API (WebKit-based)
+- 🧭 **Keyboard Navigation**  
+  Navigate between pages using `ArrowRight` and `ArrowLeft`.
 
-How to Use
-	1.	Open index.html in a supported browser (preferably Chrome for Web Speech API support).
-	2.	Use Arrow keys or voice commands like:
-	•	"Hey Ash"
-	•	"Go to page 1", "Go to page 2", etc.
-	3.	Fill out the Contact Us form and submit.
+- 🎙️ **Voice Control**  
+  - Activate voice assistant by saying: `"Hey Ash"`  
+  - Use commands like: `"Go to page 2"` to jump to specific pages
 
-Accessibility Notes
-	•	Voice feedback and keyboard control ensure a more inclusive experience.
-	•	Proper use of semantic elements and ARIA attributes help screen reader users.
-	•	Form elements are fully accessible and labeled.
+- 📨 **Contact Form**  
+  Accessible form with fields for name, email, and message.
 
-Browser Compatibility
-	•	Fully supported in Google Chrome
-	•	Other browsers may not support webkitSpeechRecognition
+- ♿ **Screen Reader Support**  
+  Semantic HTML with `role` and `aria-labelledby` for full ARIA accessibility.
 
-Future Improvements
-	•	Add visual indicators for active voice commands
-	•	Support additional languages for voice recognition
-	•	Add form submission handling and validations
+- 🔔 **Dynamic Alerts**  
+  Announces page transitions and user interactions for auditory feedback.
 
-License
+---
 
-This project is open-source under the MIT License.
+## 📄 Pages
+
+1. **Page 1** – Welcome screen  
+2. **Page 2** – Informational section  
+3. **Page 3** – Additional content  
+4. **Contact Us** – Form for collecting user input  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3
+
